@@ -1,0 +1,36 @@
+textarea {
+  resize: none;
+  border: none;
+  outline: none;
+  font-size: 24px;
+  width: 800px;
+  height: 400px;
+  background-color: honeydew;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+}
+
+input {
+  border: none;
+  outline: none;
+  font-size: 36px;
+  font-weight: bold;
+  width: 800px;
+  margin: 10px;
+  padding: 10px;
+  background-color: honeydew;
+  border-radius: 5px;
+}
+/* 
+.container {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: grey;
+} */

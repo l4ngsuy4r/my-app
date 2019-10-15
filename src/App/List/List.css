@@ -1,0 +1,7 @@
+.active {
+  color: deeppink;
+}
+
+li {
+  cursor: pointer;
+}
