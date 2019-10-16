@@ -3,7 +3,7 @@ import { useReducer } from "reinspect";
 import Editor from "./Editor/Editor";
 import List from "./List/List";
 
-const filesURL = "https://re-back.herokuapp.com/files";
+const filesURL = process.env.REACT_APP_API_URL + "files";
 const headers = {
   "Accept": "application/json",
   "Content-Type": "application/json"
